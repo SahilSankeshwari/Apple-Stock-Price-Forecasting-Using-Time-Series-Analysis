@@ -96,6 +96,6 @@ This project demonstrates how various time series models can be applied to stock
 
 **Sahil Sankeshwari**  
 M.Sc. Statistics  
-Aspiring Data Scientist | Time Series & Forecasting Enthusiast  
-📧 [Your Email Address]  
+Aspiring Data Scientist
+📧 sankeshwarisahil2003@gmail.com
 
